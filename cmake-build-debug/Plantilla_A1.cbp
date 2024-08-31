@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Plantilla_A1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej1">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej1"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej1/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej1/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej2">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej2"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej2/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej2/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej3">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej3"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ej3/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Ej3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ej3/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej4">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej4/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej4/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej5">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej5/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej5/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej6">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej6/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej6/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej8">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ej8/fast">
+				<Option output="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/ej8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include/c++/13.1.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ej8/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/EJ4.cpp">
+			<Option target="ej4"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/EJ8.cpp">
+			<Option target="ej8"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/Ej1.cpp">
+			<Option target="Ej1"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/Ej2.cpp">
+			<Option target="Ej2"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/Ej3.cpp">
+			<Option target="Ej3"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/Ej5.cpp">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/Ej6.cpp">
+			<Option target="ej6"/>
+		</Unit>
+		<Unit filename="C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

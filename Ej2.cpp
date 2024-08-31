@@ -6,10 +6,9 @@ using namespace std;
 //Imprimir la lista antes de hacer el llamado a la función y luego del llamado a la función para
 //mostrar que la lista original cambió. ej: lista: 1->2->3->4->5->3->7->8->3->10 con n=3 debe
 //pasar con la función a 1->2->4->5->7->8.
-
 void borrarnumero(Lista<int> &Lista1,int &pos, int n){
     for(int i=0;i<pos;i++){
-        if (Lista1.getDato(i)==n){
+        if(Lista1.getDato(i)==n){
             Lista1.remover(i);
             pos=pos-1;
         }

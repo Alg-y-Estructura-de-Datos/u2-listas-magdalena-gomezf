@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Plantilla_A1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej1-Debug-da12bb652f373e5e6d79.json",
+					"name" : "Ej1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej2-Debug-b773898a1b924cde650c.json",
+					"name" : "Ej2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej3-Debug-1f7c8eaaf48895d49df9.json",
+					"name" : "Ej3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej4-Debug-5da2d037d3dc08d0c2c4.json",
+					"name" : "ej4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej5-Debug-db13d2c1f6613678173c.json",
+					"name" : "ej5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej6-Debug-c6d127b101c84b90b676.json",
+					"name" : "ej6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej8-Debug-a46288bc0e4db968b3c6.json",
+					"name" : "ej8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf/cmake-build-debug",
+		"source" : "C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u2-listas-magdalena-gomezf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
